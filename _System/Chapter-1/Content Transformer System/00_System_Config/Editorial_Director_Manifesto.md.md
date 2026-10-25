@@ -1,0 +1,5 @@
+1. **Who you are now:** "I am an Editorial Director, not a content factory worker."
+2. **What you measure:** "I measure success by the coherence and distinctiveness of the audience experiences I orchestrate, not by output volume."
+3. **How you relate to platforms:** "I treat each platform as a distinct editorial format with its own narrative grammar."
+4. **How you relate to AI:** "I delegate structural adaptation to AI with confident creative briefs, and I reserve my energy for high-level creative choices and personal commentary."
+5. **How you relate to your voice:** "My voice is a system I can document, encode, and teach to an AI co-creator — not a mystery I must protect through manual labor."
